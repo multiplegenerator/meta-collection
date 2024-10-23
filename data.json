@@ -1,0 +1,100 @@
+{
+  "collections": [
+    {
+      "name": "Taco Tribe",
+      "AssetsUrlPath": "/assets/tacotribe/",
+      "attributes": [
+        {
+          "attributeName": "Backgrounds",
+          "maxAttributes": 5
+        },
+        {
+          "attributeName": "Body",
+          "maxAttributes": 3
+        },
+        {
+          "attributeName": "Eyes",
+          "maxAttributes": 4
+        },
+        {
+          "attributeName": "Face",
+          "maxAttributes": 3
+        },
+        {
+          "attributeName": "Feet",
+          "maxAttributes": 2
+        },
+        {
+          "attributeName": "Hands",
+          "maxAttributes": 2
+        },
+        {
+          "attributeName": "Head",
+          "maxAttributes": 3
+        },
+        {
+          "attributeName": "Items",
+          "maxAttributes": 6
+        },
+        {
+          "attributeName": "Mouth",
+          "maxAttributes": 3
+        },
+        {
+          "attributeName": "Outfits",
+          "maxAttributes": 4
+        },
+        {
+          "attributeName": "Pants",
+          "maxAttributes": 2
+        },
+        {
+          "attributeName": "Shirt",
+          "maxAttributes": 2
+        },
+        {
+          "attributeName": "Wrist",
+          "maxAttributes": 2
+        }
+      ]
+    },
+    {
+      "name": "Doodled Taco",
+      "AssetsUrlPath": "/assets/doodledtaco/",
+      "attributes": [
+        {
+          "attributeName": "Background",
+          "maxAttributes": 3
+        },
+        {
+          "attributeName": "Body",
+          "maxAttributes": 3
+        },
+        {
+          "attributeName": "Earwear",
+          "maxAttributes": 2
+        },
+        {
+          "attributeName": "Eyewear",
+          "maxAttributes": 3
+        },
+        {
+          "attributeName": "Headwear",
+          "maxAttributes": 4
+        },
+        {
+          "attributeName": "Items",
+          "maxAttributes": 5
+        },
+        {
+          "attributeName": "Mouth",
+          "maxAttributes": 3
+        },
+        {
+          "attributeName": "Outfit",
+          "maxAttributes": 4
+        }
+      ]
+    }
+  ]
+}
