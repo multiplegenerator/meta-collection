@@ -6,55 +6,55 @@
       "attributes": [
         {
           "attributeName": "Backgrounds",
-          "maxAttributes": 5
+          "maxAttributes": 34
         },
         {
           "attributeName": "Body",
-          "maxAttributes": 3
+          "maxAttributes": 5
         },
         {
           "attributeName": "Eyes",
-          "maxAttributes": 4
+          "maxAttributes": 44
         },
         {
           "attributeName": "Face",
-          "maxAttributes": 3
+          "maxAttributes": 35
         },
         {
           "attributeName": "Feet",
-          "maxAttributes": 2
+          "maxAttributes": 87
         },
         {
           "attributeName": "Hands",
-          "maxAttributes": 2
+          "maxAttributes": 15
         },
         {
           "attributeName": "Head",
-          "maxAttributes": 3
+          "maxAttributes": 144
         },
         {
           "attributeName": "Items",
-          "maxAttributes": 6
+          "maxAttributes": 421
         },
         {
           "attributeName": "Mouth",
-          "maxAttributes": 3
+          "maxAttributes": 14
         },
         {
           "attributeName": "Outfits",
-          "maxAttributes": 4
+          "maxAttributes": 154
         },
         {
           "attributeName": "Pants",
-          "maxAttributes": 2
+          "maxAttributes": 38
         },
         {
           "attributeName": "Shirt",
-          "maxAttributes": 2
+          "maxAttributes": 139
         },
         {
           "attributeName": "Wrist",
-          "maxAttributes": 2
+          "maxAttributes": 14
         }
       ]
     },
@@ -64,35 +64,35 @@
       "attributes": [
         {
           "attributeName": "Background",
-          "maxAttributes": 3
+          "maxAttributes": 30
         },
         {
           "attributeName": "Body",
-          "maxAttributes": 3
+          "maxAttributes": 4
         },
         {
           "attributeName": "Earwear",
-          "maxAttributes": 2
+          "maxAttributes": 7
         },
         {
           "attributeName": "Eyewear",
-          "maxAttributes": 3
+          "maxAttributes": 46
         },
         {
           "attributeName": "Headwear",
-          "maxAttributes": 4
+          "maxAttributes": 154
         },
         {
           "attributeName": "Items",
-          "maxAttributes": 5
+          "maxAttributes": 74
         },
         {
           "attributeName": "Mouth",
-          "maxAttributes": 3
+          "maxAttributes": 35
         },
         {
           "attributeName": "Outfit",
-          "maxAttributes": 4
+          "maxAttributes": 96
         }
       ]
     }
