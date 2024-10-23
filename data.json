@@ -2,7 +2,7 @@
   "collections": [
     {
       "name": "Taco Tribe",
-      "AssetsUrlPath": "/assets/tacotribe/",
+      "AssetsUrlPath": "https://raw.githubusercontent.com/multiplegenerator/AssetsGenerator/refs/heads/main/Tacotribe/",
       "attributes": [
         {
           "attributeName": "Backgrounds",
@@ -60,7 +60,7 @@
     },
     {
       "name": "Doodled Taco",
-      "AssetsUrlPath": "/assets/doodledtaco/",
+      "AssetsUrlPath": "https://raw.githubusercontent.com/multiplegenerator/AssetsGenerator/refs/heads/main/DoodledTacos/",
       "attributes": [
         {
           "attributeName": "Background",
