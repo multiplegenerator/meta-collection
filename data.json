@@ -6,55 +6,68 @@
       "attributes": [
         {
           "attributeName": "Backgrounds",
-          "maxAttributes": 34
+          "maxAttributes": 34,
+          "OrderImages": 1
         },
         {
           "attributeName": "Body",
-          "maxAttributes": 5
+          "maxAttributes": 5,
+          "OrderImages": 2
         },
         {
           "attributeName": "Eyes",
-          "maxAttributes": 44
+          "maxAttributes": 44,
+          "OrderImages": 3
         },
         {
           "attributeName": "Face",
-          "maxAttributes": 35
+          "maxAttributes": 35,
+          "OrderImages": 4
         },
         {
           "attributeName": "Feet",
-          "maxAttributes": 87
+          "maxAttributes": 87,
+          "OrderImages": 5
         },
         {
           "attributeName": "Hands",
-          "maxAttributes": 15
+          "maxAttributes": 15,
+          "OrderImages": 6
         },
         {
           "attributeName": "Head",
-          "maxAttributes": 144
+          "maxAttributes": 144,
+          "OrderImages": 7
         },
         {
           "attributeName": "Items",
-          "maxAttributes": 421
+          "maxAttributes": 421,
+          "OrderImages": 8
         },
         {
           "attributeName": "Mouth",
-          "maxAttributes": 14
+          "maxAttributes": 14,
+          "OrderImages": 9
         },
         {
           "attributeName": "Outfits",
-          "maxAttributes": 154
+          "maxAttributes": 154,
+          "OrderImages": 10
         },
         {
           "attributeName": "Pants",
-          "maxAttributes": 38
+          "maxAttributes": 38,
+          "OrderImages": 11
         },
         {
           "attributeName": "Shirt",
-          "maxAttributes": 139
+          "maxAttributes": 139,
+          "OrderImages": 12
         },
         {
           "attributeName": "Wrist",
-          "maxAttributes": 14
+          "maxAttributes": 14,
+          "OrderImages": 13
         }
       ]
     },
@@ -64,35 +77,43 @@
       "attributes": [
         {
           "attributeName": "Background",
-          "maxAttributes": 30
+          "maxAttributes": 30,
+          "OrderImages": 1
         },
         {
           "attributeName": "Body",
-          "maxAttributes": 4
+          "maxAttributes": 4,
+          "OrderImages": 2
         },
         {
           "attributeName": "Earwear",
-          "maxAttributes": 7
+          "maxAttributes": 7,
+          "OrderImages": 3
         },
         {
           "attributeName": "Eyewear",
-          "maxAttributes": 46
+          "maxAttributes": 46,
+          "OrderImages": 4
         },
         {
           "attributeName": "Headwear",
-          "maxAttributes": 154
+          "maxAttributes": 154,
+          "OrderImages": 5
         },
         {
           "attributeName": "Items",
-          "maxAttributes": 74
+          "maxAttributes": 74,
+          "OrderImages": 6
         },
         {
           "attributeName": "Mouth",
-          "maxAttributes": 35
+          "maxAttributes": 35,
+          "OrderImages": 7
         },
         {
           "attributeName": "Outfit",
-          "maxAttributes": 96
+          "maxAttributes": 96,
+          "OrderImages": 8
         }
       ]
     }
