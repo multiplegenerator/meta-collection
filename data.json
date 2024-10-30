@@ -6,7 +6,7 @@
       "attributes": [
         {
           "attributeName": "Backgrounds",
-          "maxAttributes": 34,
+          "maxAttributes": 49,
           "OrderImages": 1
         },
         {
@@ -46,28 +46,23 @@
         },
         {
           "attributeName": "Mouth",
-          "maxAttributes": 14,
+          "maxAttributes": 8,
           "OrderImages": 9
-        },
-        {
-          "attributeName": "Outfits",
-          "maxAttributes": 154,
-          "OrderImages": 10
         },
         {
           "attributeName": "Pants",
           "maxAttributes": 38,
-          "OrderImages": 11
+          "OrderImages": 10
         },
         {
-          "attributeName": "Shirt",
-          "maxAttributes": 139,
-          "OrderImages": 12
+          "attributeName": "Tops",
+          "maxAttributes": 292,
+          "OrderImages": 11
         },
         {
           "attributeName": "Wrist",
           "maxAttributes": 14,
-          "OrderImages": 13
+          "OrderImages": 12
         }
       ]
     },
