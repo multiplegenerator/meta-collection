@@ -15,18 +15,18 @@
           "OrderImages": 2
         },
         {
-          "attributeName": "Eyes",
-          "maxAttributes": 44,
+          "attributeName": "Pants",
+          "maxAttributes": 38,
           "OrderImages": 3
-        },
-        {
-          "attributeName": "Face",
-          "maxAttributes": 35,
-          "OrderImages": 4
         },
         {
           "attributeName": "Feet",
           "maxAttributes": 87,
+          "OrderImages": 4
+        },
+        {
+          "attributeName": "Tops",
+          "maxAttributes": 292,
           "OrderImages": 5
         },
         {
@@ -40,23 +40,23 @@
           "OrderImages": 7
         },
         {
-          "attributeName": "Items",
-          "maxAttributes": 421,
+          "attributeName": "Eyes",
+          "maxAttributes": 44,
           "OrderImages": 8
+        },
+        {
+          "attributeName": "Face",
+          "maxAttributes": 35,
+          "OrderImages": 9
         },
         {
           "attributeName": "Mouth",
           "maxAttributes": 8,
-          "OrderImages": 9
-        },
-        {
-          "attributeName": "Pants",
-          "maxAttributes": 38,
           "OrderImages": 10
         },
         {
-          "attributeName": "Tops",
-          "maxAttributes": 292,
+          "attributeName": "Items",
+          "maxAttributes": 421,
           "OrderImages": 11
         },
         {
