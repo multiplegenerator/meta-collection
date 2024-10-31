@@ -67,7 +67,7 @@
       ]
     },
     {
-      "name": "Doodled Taco",
+      "name": "Doodled Tacos",
       "AssetsUrlPath": "https://raw.githubusercontent.com/multiplegenerator/AssetsGenerator/refs/heads/main/DoodledTacos/",
       "attributes": [
         {
@@ -109,6 +109,57 @@
           "attributeName": "Outfit",
           "maxAttributes": 96,
           "OrderImages": 8
+        }
+      ]
+    },
+    {
+      "name": "Baby Tacos",
+      "AssetsUrlPath": "https://raw.githubusercontent.com/multiplegenerator/AssetsGenerator/refs/heads/main/Baby%20Tacos",
+      "attributes": [
+        {
+          "attributeName": "Background",
+          "maxAttributes": 8,
+          "OrderImages": 1
+        },
+        {
+          "attributeName": "Body",
+          "maxAttributes": 2,
+          "OrderImages": 2
+        },
+        {
+          "attributeName": "Eyes",
+          "maxAttributes": 5,
+          "OrderImages": 3
+        },
+        {
+          "attributeName": "Mouth",
+          "maxAttributes": 10,
+          "OrderImages": 4
+        },
+        {
+          "attributeName": "Feet",
+          "maxAttributes": 7,
+          "OrderImages": 5
+        },
+        {
+          "attributeName": "Hand",
+          "maxAttributes": 3,
+          "OrderImages": 6
+        },
+        {
+          "attributeName": "Head",
+          "maxAttributes": 9,
+          "OrderImages": 7
+        },
+        {
+          "attributeName": "Items",
+          "maxAttributes": 22,
+          "OrderImages": 8
+        },
+        {
+          "attributeName": "Seat",
+          "maxAttributes": 3,
+          "OrderImages": 9
         }
       ]
     }
