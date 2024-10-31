@@ -193,6 +193,52 @@
           "OrderImages": 5
         }
       ]
+    },
+    {
+      "name": "Taco Sauce",
+      "AssetsUrlPath": "https://raw.githubusercontent.com/multiplegenerator/AssetsGenerator/refs/heads/main/Taco%20Sauce/",
+      "attributes": [
+        {
+          "attributeName": "Background",
+          "maxAttributes": 8,
+          "OrderImages": 1
+        },
+        {
+          "attributeName": "Body",
+          "maxAttributes": 5,
+          "OrderImages": 2
+        },
+        {
+          "attributeName": "Head",
+          "maxAttributes": 29,
+          "OrderImages": 3
+        },
+        {
+          "attributeName": "Eyes",
+          "maxAttributes": 9,
+          "OrderImages": 4
+        },
+        {
+          "attributeName": "EyeWear",
+          "maxAttributes": 8,
+          "OrderImages": 5
+        },
+        {
+          "attributeName": "Mouth",
+          "maxAttributes": 10,
+          "OrderImages": 6
+        },
+        {
+          "attributeName": "Front",
+          "maxAttributes": 6,
+          "OrderImages": 7
+        },
+        {
+          "attributeName": "Saying",
+          "maxAttributes": 19,
+          "OrderImages": 8
+        }
+      ]
     }
   ]
 }
