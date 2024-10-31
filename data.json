@@ -162,6 +162,37 @@
           "OrderImages": 9
         }
       ]
+    },
+    {
+      "name": "Guac vs Sour Cream",
+      "AssetsUrlPath": "https://raw.githubusercontent.com/multiplegenerator/AssetsGenerator/refs/heads/main/Guac%20vs%20Sour%20Cream/",
+      "attributes": [
+        {
+          "attributeName": "Background",
+          "maxAttributes": 7,
+          "OrderImages": 1
+        },
+        {
+          "attributeName": "Body",
+          "maxAttributes": 8,
+          "OrderImages": 2
+        },
+        {
+          "attributeName": "Head",
+          "maxAttributes": 4,
+          "OrderImages": 3
+        },
+        {
+          "attributeName": "LeftHand",
+          "maxAttributes": 4,
+          "OrderImages": 4
+        },
+        {
+          "attributeName": "RightHand",
+          "maxAttributes": 48,
+          "OrderImages": 5
+        }
+      ]
     }
   ]
 }
