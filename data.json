@@ -122,43 +122,43 @@
           "OrderImages": 1
         },
         {
-          "attributeName": "Body",
-          "maxAttributes": 2,
+          "attributeName": "Seat",
+          "maxAttributes": 3,
           "OrderImages": 2
-        },
-        {
-          "attributeName": "Eyes",
-          "maxAttributes": 5,
-          "OrderImages": 3
-        },
-        {
-          "attributeName": "Mouth",
-          "maxAttributes": 10,
-          "OrderImages": 4
         },
         {
           "attributeName": "Feet",
           "maxAttributes": 7,
-          "OrderImages": 5
+          "OrderImages": 3
         },
         {
-          "attributeName": "Hand",
-          "maxAttributes": 3,
-          "OrderImages": 6
+          "attributeName": "Body",
+          "maxAttributes": 2,
+          "OrderImages": 4
         },
         {
           "attributeName": "Head",
           "maxAttributes": 9,
+          "OrderImages": 5
+        },
+        {
+          "attributeName": "Eyes",
+          "maxAttributes": 5,
+          "OrderImages": 6
+        },
+        {
+          "attributeName": "Mouth",
+          "maxAttributes": 10,
           "OrderImages": 7
+        },
+        {
+          "attributeName": "Hand",
+          "maxAttributes": 3,
+          "OrderImages": 8
         },
         {
           "attributeName": "Items",
           "maxAttributes": 22,
-          "OrderImages": 8
-        },
-        {
-          "attributeName": "Seat",
-          "maxAttributes": 3,
           "OrderImages": 9
         }
       ]
