@@ -219,7 +219,7 @@
           "OrderImages": 4
         },
         {
-          "attributeName": "Eyewear",
+          "attributeName": "EyeWear",
           "maxAttributes": 8,
           "OrderImages": 5
         },
@@ -237,6 +237,47 @@
           "attributeName": "Saying",
           "maxAttributes": 19,
           "OrderImages": 8
+        }
+      ]
+    },
+    {
+      "name": "Guaco Tribe",
+      "AssetsUrlPath": "https://raw.githubusercontent.com/multiplegenerator/AssetsGenerator/refs/heads/main/Guaco%20Tribe/",
+      "attributes": [
+        {
+          "attributeName": "Backgrounds",
+          "maxAttributes": 15,
+          "OrderImages": 1
+        },
+        {
+          "attributeName": "Body",
+          "maxAttributes": 2,
+          "OrderImages": 2
+        },
+        {
+          "attributeName": "Eyes",
+          "maxAttributes": 9,
+          "OrderImages": 3
+        },
+        {
+          "attributeName": "Mouth",
+          "maxAttributes": 15,
+          "OrderImages": 4
+        },
+        {
+          "attributeName": "Hats",
+          "maxAttributes": 31,
+          "OrderImages": 5
+        },
+        {
+          "attributeName": "SidePiece",
+          "maxAttributes": 17,
+          "OrderImages": 6
+        },
+        {
+          "attributeName": "Wrist",
+          "maxAttributes": 22,
+          "OrderImages": 7
         }
       ]
     }
