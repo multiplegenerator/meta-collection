@@ -15,13 +15,13 @@
           "OrderImages": 2
         },
         {
-          "attributeName": "Pants",
-          "maxAttributes": 38,
+          "attributeName": "Feet",
+          "maxAttributes": 87,
           "OrderImages": 3
         },
         {
-          "attributeName": "Feet",
-          "maxAttributes": 87,
+          "attributeName": "Pants",
+          "maxAttributes": 38,
           "OrderImages": 4
         },
         {
@@ -45,13 +45,13 @@
           "OrderImages": 8
         },
         {
-          "attributeName": "Face",
-          "maxAttributes": 35,
+          "attributeName": "Mouth",
+          "maxAttributes": 8,
           "OrderImages": 9
         },
         {
-          "attributeName": "Mouth",
-          "maxAttributes": 8,
+          "attributeName": "Face",
+          "maxAttributes": 35,
           "OrderImages": 10
         },
         {
