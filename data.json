@@ -127,38 +127,38 @@
           "OrderImages": 2
         },
         {
-          "attributeName": "Feet",
-          "maxAttributes": 7,
-          "OrderImages": 3
-        },
-        {
           "attributeName": "Body",
           "maxAttributes": 2,
-          "OrderImages": 4
+          "OrderImages": 3
         },
         {
           "attributeName": "Head",
           "maxAttributes": 9,
-          "OrderImages": 5
+          "OrderImages": 4
         },
         {
           "attributeName": "Eyes",
           "maxAttributes": 5,
-          "OrderImages": 6
+          "OrderImages": 5
         },
         {
           "attributeName": "Mouth",
           "maxAttributes": 10,
-          "OrderImages": 7
+          "OrderImages": 6
         },
         {
           "attributeName": "Hand",
           "maxAttributes": 3,
-          "OrderImages": 8
+          "OrderImages": 7
         },
         {
           "attributeName": "Items",
           "maxAttributes": 22,
+          "OrderImages": 8
+        },
+        {
+          "attributeName": "Feet",
+          "maxAttributes": 7,
           "OrderImages": 9
         }
       ]
