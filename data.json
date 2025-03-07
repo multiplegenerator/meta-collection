@@ -40,13 +40,13 @@
           "OrderImages": 7
         },
         {
-          "attributeName": "Eyes",
-          "maxAttributes": 44,
+          "attributeName": "Mouth",
+          "maxAttributes": 8,
           "OrderImages": 8
         },
         {
-          "attributeName": "Mouth",
-          "maxAttributes": 8,
+          "attributeName": "Eyes",
+          "maxAttributes": 44,
           "OrderImages": 9
         },
         {
